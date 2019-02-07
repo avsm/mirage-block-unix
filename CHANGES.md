@@ -1,3 +1,6 @@
+## v2.11.1 (2019-02-06)
+* Use `io-page-unix` instead of `io-page.unix` (@avsm)
+
 ## v2.11.0 (2019-02-03)
 * Port build to Dune from jbuilder (#93 @avsm)
 * Update opam metadata to 2.0 format (#92 @avsm @jonludlam)
